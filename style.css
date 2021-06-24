@@ -1,0 +1,4 @@
+html {
+    background-color: white;
+    filter: invert(1) hue-rotate(180deg); /* This will flip the color back to its original value.*/
+    }
